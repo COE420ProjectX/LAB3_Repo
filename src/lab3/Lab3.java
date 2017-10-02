@@ -10,7 +10,9 @@ package lab3;
  * @author b00057613
  */
 public class Lab3 {
-
+    public void feature_b(){
+        System.out.println("Hello this is Ikram");
+    }
     /**
      * @param args the command line arguments
      */
