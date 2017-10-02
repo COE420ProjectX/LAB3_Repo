@@ -12,6 +12,7 @@ package lab3;
 public class Lab3 {
     public void feature_b(){
         System.out.println("Hello this is Ikram");
+        System.out.println("This is the extra code");
     }
     /**
      * @param args the command line arguments
